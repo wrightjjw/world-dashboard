@@ -5,11 +5,11 @@ to help a game master keep track of their world as time moves on,
 and for players to be able to understand current world details at a glance.
 
 ## Project Goals
-[ ] Provide an interface for users to see details about the current daily state of the world,
+- [ ] Provide an interface for users to see details about the current daily state of the world,
 including weather, season, sunrise and sunset.
-[ ] Have the world attributes randomly but reasonably progress when a day passes.
-[ ] Give a world admin the ability to set world parameters and to advance the calendar.
-[ ] Allow multiple worlds in one app instance.
+- [ ] Have the world attributes randomly but reasonably progress when a day passes.
+- [ ] Give a world admin the ability to set world parameters and to advance the calendar.
+- [ ] Allow multiple worlds in one app instance.
 Allow the webmaster to give world admin priviledges to other users.
 
 ## License
